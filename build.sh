@@ -1,3 +1,4 @@
+#tes2
 #docker rmi iredmail --force
 #docker build --no-cache  -t iredmail:latest build
 docker build -t iredmail:latest mysql
